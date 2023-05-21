@@ -16,5 +16,5 @@ Esse projeto foi desenvolvido durante a NLW Spacetime da Rocketseat com as segui
 
 ## 🏷️ Layout󠀠󠀠󠀠
 
-Você pode visualizar o layout do projeto através [desse link](<https://www.figma.com/file/m2ZXtHqwKn9dhMr8LhcaS1/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer-(Community)-(Copy)?type=design&t=RdAsiEyEhID0a68n-0>).
+Você pode visualizar o layout do projeto através <a href="https://www.figma.com/file/m2ZXtHqwKn9dhMr8LhcaS1/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer-(Community)-(Copy)?type=design&t=RdAsiEyEhID0a68n-0" target="_blank">desse link</a>
 É necessário ter uma conta no [Figma](https://www.figma.com/).
