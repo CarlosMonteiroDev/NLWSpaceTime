@@ -80,11 +80,6 @@ a {
 }
 /*****************/
 
-html,
-body {
-  /* background-color: #121215; */
-}
-
 h1 {
   position: absolute;
   width: 0px;
@@ -217,7 +212,6 @@ nav ul {
 @media (max-width: 768px) {
   :root {
     font-size: 14px;
-    animation: none;
   }
 
   main {
@@ -243,5 +237,44 @@ nav ul {
     padding: 5%;
     overflow-y: visible;
     animation: entering-timeline-small 1.5s ease-in-out;
+  }
+}
+
+@media (max-height: 438px) {
+  :root {
+    font-size: 12px;
+  }
+  aside .logo {
+    width: 150px;
+  }
+
+  aside .profile {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@media (max-height: 338px) {
+  aside .logo {
+    width: 150px;
+  }
+
+  aside .profile {
+    width: 130px;
+    height: 130px;
+  }
+}
+
+@media (max-height: 328px) {
+  :root {
+    font-size: 10px;
+  }
+  aside .logo {
+    width: 130px;
+  }
+
+  aside .profile {
+    width: 120px;
+    height: 120px;
   }
 }
